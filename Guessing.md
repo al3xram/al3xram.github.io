@@ -1,6 +1,5 @@
 ```mermaid
 flowchart TD
-flowchart TD
 1([Start]) --> 2[Generate Random Number]
 2 --> 3[Initialize Attempt Counter to 0]
 3 --> 4[Prompt User for Guess]
