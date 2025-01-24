@@ -21,7 +21,7 @@ flowchart TD
 18 -- Guess Too Low --> O[Display "Too Low" Message]
 19 --> 4
 
-1. Start Game:
+## Start Game:
  *The game begans when a randome number is generated and the attempt counter is set to zero.
 2.
- *
+ 
