@@ -4,4 +4,5 @@ This repository will hold all of my school assignments.
 Thank you for reading.
 # About me
 ## Interests
+I have multiple hobbies that I enjoy doing, they are skating, playing the bass, and playing video games.
 ## Websites I Recommend
